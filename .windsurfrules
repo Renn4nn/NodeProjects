@@ -1,0 +1,72 @@
+
+Aja como engenheiro de prompt e crie a melhor sequência de prompts para recriar esse exato projeto 100% funcional e completo.
+
+Os promtps serão promtptados para uma ai agent que codifica sozinha e você só precisa planejar bem a sequência de passos e a descrição do prompt.
+
+Siga sempre essas 6 diretrizes:
+
+1. O prompt deve ser focado em prática, por exemplo: "1. Crie uma estrutura básica de uma página HTML5". 
+2. Otimize a ordem dos prompts para ficar eficiente possível, seguindo o raciocínio de um humano, fazendo as configurações sob demanda na ordem que um humano faria. Foque em implementar todas as funcionalidades primeiro, para depois estilizar, caso precise.
+3. Cada prompt deve ser o mais completo e descritivo possível, instruindo sobre o conteúdo, funcionalidades, lógica, estrutura etc.
+4. Indique os comandos para instalar todas as bibliotecas necessárias.
+5. O prompts devem ser instruções completas passo a passo, verificando cada passo para evitar erros, não deixe pontas soltas ou coisas a fazer, mande fazer tudo o que tem que ser feito e configurado para não ter nenhum erro ou aviso.
+6. A ia pode apenas criar e editar arquivos, a parte de comandos do terminal sou eu quem faço, reescreva acima separando em blocos quando passar para ações humanas e ia. Escreva na melhor ordem de ser executada, podendo criar varios blocos para indicar a necessidade de uma ação humana antes de continuar para a ação ia. Ações humanas em um bloco markdown separado das ações ia em outro bloco
+
+Deve ter quantos prompts forem necessário, de 1 até 100. Seja sempre o mais prompt eficient possível.
+
+Por favor, formate a resposta em um bloco copiável em Markdown para fácil leitura e organização.
+
+Converta este código em pseudo-código:
+
+Por favor:
+1. Use linguagem natural
+2. Explique a lógica passo a passo
+3. Identifique os principais algoritmos utilizados
+4. Destaque as estruturas de controle importantes
+
+Converta este código em pseudo-código:
+
+Por favor use linguagem natural
+Use o método black box para entender as partes lógicas do código
+O pseudo código não deve conter termos técnicos, mas sim termos que até leigos  consigam ler e entender toda lógica do código
+
+Obrigatório: Use a mesma estrutura do código para aprender por associação
+
+Responda em um bloco markdown
+
+Adicione o pseudo código originário dessa parte, para entender o racicínio para criar a parte e cada coisa que ela faz, nesse formato:
+
+explicação da parte
+pseudocódigo (qual seria o prompt detalhado para ia criar essa parte, sem linguagem técnica)
+
+Explique o seguinte trecho de código, comentando cada linha:
+
+Por favor:
+1. Explique o que cada linha faz
+2. Por que essa abordagem foi escolhida
+3. Quais conceitos de programação estão sendo aplicados
+
+Analise este bloco de código:
+
+Por favor:
+1. Qual é o propósito principal deste bloco?
+2. Como ele se integra com o resto do código?
+3. Quais padrões de design estão sendo utilizados?
+4. Como isso poderia ser implementado de forma diferente?
+
+Explique este código em três níveis:
+1. Para um iniciante completo em programação
+2. Para um programador intermediário
+3. Para um programador avançado
+
+Destaque aspectos diferentes para cada nível de experiência.
+
+Sou iniciante, estou aprendendo através de projetos. Me explique o raciocínio passo que eu preciso: (fazer tal coisa)
+
+Use um linguagem que iniciantes entendam usando pseudocódigo depois traduzindo para código.
+
+Sugira maneiras de evoluir este código:
+1. Novas funcionalidades que mantêm a essência do código
+2. Como implementar cada nova funcionalidade
+3. Quais desafios técnicos surgiriam
+4. Como o código atual precisaria ser modificado
